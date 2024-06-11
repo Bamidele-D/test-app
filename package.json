@@ -11,9 +11,11 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "kredi-reg-authentication": "^0.0.7",
+    "kredi-reg-authentication": "^0.0.9",
+    "remixicon": "^4.2.0",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue-router": "^4.3.0",
+    "vue3-otp-input": "^0.5.21"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",
